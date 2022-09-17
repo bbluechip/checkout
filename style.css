@@ -1,0 +1,26 @@
+.img {
+  width: 200px;
+  height: 200px;
+}
+.vanish {
+  visibility: hidden;
+  display: none;
+}
+.check-btn {
+  background-color: yellow;
+  width: 50px;
+  height: 50px;
+}
+.bg-sepya {
+  background-color: #ffe9a0;
+  width: 50%;
+}
+.remove-btn {
+  background-color: #cc3636;
+}
+.btn-minus {
+  background-color: #f57328;
+}
+.btn-plus {
+  background-color: #367e18;
+}

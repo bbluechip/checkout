@@ -1,7 +1,7 @@
 ## Checkout
-![Animation](https://github.com/bbluechip/voltran/blob/master/images/Animation.gif)
+![Animation](https://github.com/bbluechip/checkout/blob/master/img/Animation.gif)
 
-👉[Click here to see the page](https://bbluechip.github.io/voltran/)
+👉[Click here to see the page](https://bbluechip.github.io/checkout/)
 
 ## Project Skeleton 
 
